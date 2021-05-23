@@ -50,7 +50,10 @@ THIRD_PARTY_APPS = [
     "versatileimagefield",
 ]
 
-PROJECT_APPS = ["users"]
+PROJECT_APPS = [
+        "users",
+        "offer",
+]
 
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + PROJECT_APPS
 
@@ -151,7 +154,8 @@ if ENVIRONMENT in ("development", "testing"):
 
 REST_FRAMEWORK = {
     "DEFAULT_PERMISSION_CLASSES": [
-        "rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly"
+        #"rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly",
+        "rest_framework_simplejwt.authentication.JWTAuthentication",
     ],
     "DEFAULT_AUTHENTICATION_CLASSES": [
         "rest_framework.authentication.TokenAuthentication",
@@ -160,7 +164,6 @@ REST_FRAMEWORK = {
 }
 
 # Auth
-
 AUTH_USER_MODEL = "users.User"
 
 
