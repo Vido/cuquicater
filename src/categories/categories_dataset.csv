@@ -1,0 +1,1616 @@
+category_id,description,parent_id_category,root_id_category
+2,ar e ventilacao,1,1
+3,automotivo,1,1
+4,bebes,1,1
+5,beleza e perfumaria,1,1
+6,cama mesa e banho,1,1
+7,cameras filmadoras e drones,1,1
+8,casa e construcao,1,1
+9,dvds e blu-ray,16,16
+10,eletrodomesticos,1,1
+11,eletronicos - audio,2139,2139
+12,eletronicos - tela,2139,2139
+13,eletroportateis,1,1
+14,games,1,1
+15,informatica,1,1
+16,livros dvds e blu-ray,1,1
+17,relogios e joias,1,1
+18,saude,1,1
+19,telefonia,1,1
+20,aquecedor,2,2
+21,ar condicionado,2,2
+22,climatizador,2,2
+23,umidificador,2,2
+24,ventilador e circulador,2,2
+25,acessorios internos e externos,3,3
+26,farois lanternas e iluminacao,3,3
+27,pecas,3,3
+28,pneus rodas e calotas,3,3
+29,alarmes e seguranca,3,3
+30,som automotivo,3,3
+31,alimentacao,4,4
+32,bercario,4,4
+33,brinquedos para bebe,4,4
+34,chupetas e mordedores,4,4
+35,desenvolvimento e diversao,4,4
+36,enxoval do bebe,4,4
+37,higiene e saude,4,4
+38,para mamae,4,4
+39,passeio,4,4
+40,quarto do bebe,4,4
+41,seguranca,4,4
+42,barbearia,5,5
+43,cuidados pessoais / dermocosmeticos,5,5
+44,depilacao,5,5
+45,maquiagem,5,5
+46,nutricosmeticos,5,5
+47,perfumaria,5,5
+48,produtos para cabelo,5,5
+49,protecao solar,5,5
+50,unhas,5,5
+51,banho,6,6
+52,cama,6,6
+53,linha infantil,6,6
+54,mesa,6,6
+55,acessorios para cameras e filmadoras,7,7
+56,camera digital,7,7
+57,camera instantanea,7,7
+58,drone,7,7
+59,filmadora digital,7,7
+60,iluminacao e estudio,7,7
+61,banheiro,8,8
+62,cozinha e area de servico,8,8
+63,ferramentas,8,8
+64,filme,9,16
+65,musica,9,16
+66,adega climatizada,10,10
+67,bebedouro e purificador,10,10
+68,churrasqueira,10,10
+69,coifa e depurador,10,10
+70,cooktop,10,10
+71,fogao,10,10
+72,forno,10,10
+73,freezer,10,10
+74,geladeira / refrigerador,10,10
+75,lava loucas,10,10
+76,linha industrial,10,10
+77,maquina de lavar e tanquinho,10,10
+78,micro-ondas,10,10
+79,pecas de reposicao,10,10
+80,secadora de roupa e centrifuga,10,10
+81,acessorios,11,2139
+82,caixa de som,11,2139
+83,fone de ouvido,11,2139
+84,micro system / mini system,11,2139
+85,acessorios para tv e video,12,2139
+86,tv,12,2139
+87,video,12,2139
+88,aspirador e vassoura eletrica,13,13
+89,batedeira e acessorios,13,13
+90,cafeteira,13,13
+91,centrifuga e espremedor de fruta,13,13
+92,chaleira eletrica,13,13
+93,churrasqueira e utensilios,13,13
+94,cozinha criativa,13,13
+95,enceradeira,13,13
+96,ferro de passar e passadeira avapor,13,13
+97,forno eletrico,13,13
+98,fritadeira eletrica,13,13
+99,grill sanduicheira e torradeira,13,13
+100,liquidificador e acessorios,13,13
+101,maquina de costura,13,13
+102,mixer e processador de alimentos,13,13
+103,moedor e ralador,13,13
+104,panela eletrica,13,13
+105,pipoqueira,13,13
+106,robo aspirador,13,13
+107,vaporizador e higienizador,13,13
+108,acessorios para videogame,14,14
+109,console de video game,14,14
+110,gift card,2571,2571
+111,jogos,14,14
+112,joystick / controle,14,14
+113,pecas para videogame,14,14
+114,acessorios e perifericos em geral,15,15
+115,componentes,15,15
+116,computadores e all in one,15,15
+117,impressora,15,15
+118,monitor,15,15
+119,notebook,15,15
+120,projetor,15,15
+121,scanner,15,15
+122,software,15,15
+123,suprimentos,15,15
+124,tablet,15,15
+125,bijuterias,867,803
+126,despertador,17,17
+127,joias,17,17
+128,relogio de parede,17,17
+129,relogio de pulso,17,17
+130,acessibilidade e mobilidade,18,18
+131,equipamentos medicos e hospitalares,18,18
+132,higiene bucal,18,18
+133,higiene pessoal,18,18
+134,medidores e testes,18,18
+135,nebulizador e inalador,18,18
+136,otica,18,18
+137,primeiros socorros,18,18
+138,purificadores de ar,18,18
+139,remedios,18,18
+140,saude sexual,18,18
+141,vestuario medico e hospitalar,18,18
+142,acessorios celular,19,19
+143,acessorios fixa,19,19
+144,celulares e smartphones,19,19
+145,fixa,19,19
+146,acessorios para mamadeiras,31,4
+147,babadores,31,4
+148,bicos de mamadeiras,31,4
+149,cadeiras de alimentacao,31,4
+150,copos para bebes,31,4
+151,kit alimentacao,31,4
+152,mamadeiras,31,4
+153,pratos potes e talheres,31,4
+154,termicos e esterilizador,31,4
+155,brinquedos,33,4
+156,chocalhos,33,4
+157,encaixar/empilhar,33,4
+158,fantasias,33,4
+159,pelucias/plush,33,4
+160,praia e piscina,33,4
+161,tapetes e ginasios,33,4
+162,acessorios,34,4
+163,chupetas,34,4
+164,mordedores,34,4
+165,prendedores de chupeta,34,4
+166,andadores,35,4
+167,bouncer e jumper,35,4
+168,acessorios,36,4
+169,bolsas e malas,36,4
+170,calcados,36,4
+171,meias,36,4
+172,porta bebe,36,4
+173,roupinhas,36,4
+174,saco de roupa,36,4
+175,banheiras,37,4
+176,cueiro,37,4
+177,cuidados com o bebe,37,4
+178,fita adesiva para fralda,37,4
+179,fralda de boca e fralda de ombro,37,4
+180,fraldas,37,4
+181,lencos umedecidos,37,4
+182,perfumaria,37,4
+183,pomada para assadura,37,4
+184,shampoo & condicionador,37,4
+185,termometro,37,4
+186,toalhas e roupoes,37,4
+187,trocador,37,4
+188,troninho e redutor,37,4
+189,cuidados com a mamae,38,4
+190,extratores,38,4
+191,acessorios para carrinhos de bebe,39,4
+192,acessorios para carro,39,4
+193,bebe conforto,39,4
+194,cadeiras para auto,39,4
+195,carrinhos de bebe,39,4
+196,mini veiculos,39,4
+197,bercos e cercados,40,4
+198,decoracao para quarto,40,4
+199,lencol e saia para berco,40,4
+200,mantas e cobertores,40,4
+201,mobiles,40,4
+202,tapete,40,4
+203,travesseiro,40,4
+204,baba eletronica,41,4
+205,grades de seguranca,41,4
+206,travas e protetores,41,4
+207,acessorios,42,5
+208,aparador de barba/pelos,42,5
+209,barbeador eletrico,42,5
+210,espuma de barbear,42,5
+211,kits para barba,42,5
+212,lamina de barbear,42,5
+213,oleo para barba,42,5
+214,pos-barba,42,5
+215,pre-barba,42,5
+216,shampoo e condicionador de barba,42,5
+217,corpo,5,5
+218,face,5,5
+219,labios,5,5
+220,maos,5,5
+221,olhos,5,5
+222,pes,5,5
+223,creme para depilacao,44,5
+224,depilacao com cera,44,5
+225,depilador eletrico,44,5
+226,laminas para depilacao,44,5
+227,acessorios de maquiagem,45,5
+228,cilios posticos,45,5
+229,demaquilante,45,5
+230,estojos e kits de maquiagem,45,5
+231,face,45,5
+232,fixador de maquiagem,45,5
+233,labios,45,5
+234,maleta de maquiagem,45,5
+235,maquiagem infantil,45,5
+236,maquiagem para corpo,45,5
+237,olhos,45,5
+238,organizador de maquiagem,45,5
+239,pinca,45,5
+240,pinceis de maquiagem,45,5
+241,sobrancelhas,45,5
+242,strass para maquiagem,45,5
+248,acessorios de cabelo,48,5
+249,aparelhos eletricos para cabelo,48,5
+250,apliques e perucas,48,5
+251,coloracao,48,5
+252,condicionador,48,5
+253,creme para pentear e leave-in,48,5
+254,escova progressiva,48,5
+255,finalizador e modelador,48,5
+256,protetor termico,48,5
+257,shampoo,48,5
+258,shampoo seco,48,5
+259,tratamento,48,5
+260,autobronzeador,49,5
+261,bronzeador,49,5
+262,iluminador,49,5
+263,pos-sol,49,5
+264,protetor labial,49,5
+265,protetor solar,49,5
+266,protetor solar infantil,49,5
+267,acessorios e equipamentos para manicure e pedicure,50,5
+268,adesivo e carimbo de unhas,50,5
+269,amolecedor de cuticula,50,5
+270,base,50,5
+271,esmalte,50,5
+272,extra brilho / finalizador,50,5
+273,fixador de esmalte,50,5
+274,fortalecedor de unhas,50,5
+275,oleo secante / spray,50,5
+276,removedor de esmalte,50,5
+277,unhas posticas e acrigel,50,5
+278,jogo de banho,51,6
+279,roupao,51,6
+280,tapete de banheiro,51,6
+281,toalhas,51,6
+282,acessorios e capas,52,6
+283,cobertores e mantas,52,6
+284,colchas,52,6
+285,edredom,52,6
+286,enxoval,52,6
+287,fronha,52,6
+288,jogo de cama,52,6
+289,lencol avulso,52,6
+290,protetor de colchao,52,6
+291,saia para cama box,52,6
+292,travesseiros,52,6
+293,acessorios de cama intantil,53,6
+294,cobertor infantil,53,6
+295,colcha infantil,53,6
+296,edredom infantil,53,6
+297,enxoval infantil,53,6
+298,jogo de cama infantil,53,6
+299,roupao infantil,53,6
+300,tapete infantil,53,6
+301,toalhas infantis,53,6
+302,travesseiros infantis,53,6
+303,caminho e trilho de mesa,54,6
+304,guardanapo,54,6
+305,jogo americano,54,6
+306,kit cozinha,54,6
+307,pano de copa,54,6
+308,toalha de mesa,54,6
+309,assento sanitario,61,8
+310,banheira spa e ofuro,61,8
+311,box para banheiro,61,8
+312,chuveiro,61,8
+313,ducha,61,8
+314,metais sanitarios,61,8
+315,mictorio,61,8
+316,pias e cubas de banheiro,61,8
+317,torneira para banheiro,61,8
+318,vaso sanitario,61,8
+319,pias e cubas de cozinha,62,8
+320,tanques,62,8
+321,torneira para cozinha,62,8
+322,acessorios de hidraulica,63,8
+323,acessorios para ferramentas,63,8
+324,ferragem,63,8
+325,ferramentas de corte e desbaste,63,8
+326,ferramentas manuais,63,8
+327,ferrametas eletricas,63,8
+328,gerador de energia,63,8
+329,grampeador e tesouras,63,8
+330,hidraulica,63,8
+331,instrumentos de medicao,63,8
+332,organizacao para ferramentas,63,8
+333,pistola de cola quente,63,8
+334,pistola de pintura,63,8
+335,smart tv,86,2139
+336,tv 4k,86,2139
+337,tv lcd,86,2139
+338,tv led,86,2139
+339,tv monitor,86,2139
+340,tv nano cristal,86,2139
+341,tv oled,86,2139
+342,tv qled,86,2139
+343,blu-ray player,87,2139
+344,dvd player,87,2139
+345,home theater,87,2139
+346,acessorios de mobilidade,130,18
+347,cadeira de banho,130,18
+348,cadeira de rodas,130,18
+349,muleta bengala e andador,130,18
+350,adipometro,131,18
+351,aparelhos medicos,131,18
+352,botao de emergencia para idosos,131,18
+353,desfibrilador,131,18
+354,detector fetal,131,18
+355,diapasao medico,131,18
+356,dinamometro,131,18
+357,eletrocardiografo,131,18
+358,equipamento odontologicos,131,18
+359,espelho laringeo,131,18
+360,estadiometro,131,18
+361,estetoscopio,131,18
+362,fotoforo,131,18
+363,instrumentos cirurgicos,131,18
+364,lanterna clinica,131,18
+365,laringoscopio,131,18
+366,microscopio,131,18
+367,moveis hospitalares,131,18
+368,oftalmoscopio,131,18
+369,ortopedia,131,18
+370,otoscopio,131,18
+371,oximetro,131,18
+372,ultrasom,131,18
+373,creme dental,132,18
+374,enxaguatorio bucal,132,18
+375,escova dental ,132,18
+376,fio dental,132,18
+377,fixador de dentadura,132,18
+378,higienizador de escova dental,132,18
+379,irrigador oral,132,18
+380,limpador de lingua,132,18
+381,acessorios de banho,133,18
+382,fralda geriatrica,133,18
+383,gel antisseptico,133,18
+384,haste flexivel,133,18
+385,higiene intima,133,18
+386,lenco de papel,133,18
+387,repelente,133,18
+388,medidores de glicose,134,18
+389,medidores de pressao,134,18
+390,monitor cardiaco,134,18
+391,termometros,134,18
+392,teste de fertilidade,134,18
+393,teste de gravidez,134,18
+394,estojo para oculos,136,18
+395,lente de contato e acessorios,136,18
+396,limpeza para lente de contato,136,18
+397,limpeza para oculos,136,18
+398,oculos,136,18
+399,algodao,137,18
+400,antissepticos (agua oxigenada,137,18
+401,atadura e gaze (curativo esparadrapo,137,18
+402,compressa e bolsa termica,137,18
+403,curativo,137,18
+404,esparadrapo,137,18
+405,luva cirurgica,137,18
+406,soro fisiologico,137,18
+407,desumidificador de ar,138,18
+408,esterilizador e purificador de ar,138,18
+409,umidificador de ar,138,18
+410,lubrificante,140,18
+411,preservativo,140,18
+412,roupa cirurgica,141,18
+413,escova alisadora/secadora,249,5
+414,escova modeladora,249,5
+415,escova rotativa,249,5
+416,maquina de cortar cabelo,249,5
+417,prancha/chapinha,249,5
+418,secador de cabelo,249,5
+419,mascara e kit  alisante,259,5
+420,bomba filtros e pressurizadores,322,8
+421,pillow top,282,6
+422,brocas,323,8
+423,bucha,323,8
+424,discos de corte,323,8
+425,discos de desbaste,323,8
+426,escova para ferramenta,323,8
+427,fresas,323,8
+428,grampos para grampeadores,323,8
+429,jogo de bits,323,8
+430,kit para retificas,323,8
+431,lixas,323,8
+432,mandril,323,8
+433,parafusos,323,8
+434,talhadeiras,323,8
+435,alca para banheira,310,8
+436,apoio para cabeca,310,8
+437,aquecedor para banheira de hidromassagem,310,8
+438,banheiras sem hidromassagem,310,8
+439,cromoterapia para banheira,310,8
+440,deck para banheira,310,8
+441,ducha para banheira,310,8
+442,escada para banheira,310,8
+443,ofuro,310,8
+444,spa,310,8
+445,valvula para banheira,310,8
+446,acessorios para chuveiro,312,8
+447,aparelho,312,8
+448,acessorios ducha,313,8
+449,ducha e bide,313,8
+450,abracadeira,324,8
+451,arame,324,8
+452,barra roscada,324,8
+453,buchas,324,8
+454,cadeado,324,8
+455,caixas de correio,324,8
+456,cintas cabos cordas e correntes,324,8
+457,dobradicas,324,8
+458,escada,324,8
+459,espacador,324,8
+460,fechaduras e travas,324,8
+461,ferragens para janelas,324,8
+462,ferragens para mangueiras,324,8
+463,ferragens para portas,324,8
+464,ferragens para prateleiras,324,8
+465,ferragens para telhado,324,8
+466,ganchos pitoes e escapulas,324,8
+467,mangueira para fogao,324,8
+468,parafusos,324,8
+469,pes para moveis,324,8
+470,porcas arruelas e barras roscadas,324,8
+471,pregos,324,8
+472,protecao de garagem,324,8
+473,puxador,324,8
+474,rebite,324,8
+475,rodizios,324,8
+476,roldana,324,8
+477,cortador de parede,325,8
+478,cortador de vidro,325,8
+479,aerografo,326,8
+480,alicates,326,8
+481,almotolia,326,8
+482,arco de serra,326,8
+483,bigorna,326,8
+484,boroscopio,326,8
+485,chaves,326,8
+486,cortador de vidro,326,8
+487,desempenadeira,326,8
+488,desentupidor,326,8
+489,dobradeira de tubos,326,8
+490,espatula,326,8
+491,esticador,326,8
+492,estilete,326,8
+493,grampeadores,326,8
+494,grampos e sargentos,326,8
+495,kit de ferramentas,326,8
+496,lima,326,8
+497,macarico,326,8
+498,marreta,326,8
+499,martelo,326,8
+500,morsa,326,8
+501,nivelador de piso,326,8
+502,pe de cabra,326,8
+503,plaina,326,8
+504,raspador de tinta,326,8
+505,rebitador,326,8
+506,serrote,326,8
+507,torques,326,8
+508,ventosa,326,8
+509,chave de impacto,327,8
+510,compressor,327,8
+511,compressor de ar,327,8
+512,esmerilhadeira,327,8
+513,ferro de solda,327,8
+514,furadeira & parafusadeira,327,8
+515,lixadeira,327,8
+516,macarico,327,8
+517,maquina de solda,327,8
+518,martelete,327,8
+519,plaina politriz e tupia,327,8
+520,retifica,327,8
+521,retificadeira,327,8
+522,serra eletrica,327,8
+523,soprador termico,327,8
+524,termofusora,327,8
+525,gerador de energia a diesel,328,8
+526,gerador de energia a gasolina,328,8
+527,gerador de energia solar,328,8
+528,boia caixa de agua,330,8
+529,caixa sifonada,330,8
+530,cifao,330,8
+531,ralo,330,8
+532,registro,330,8
+533,tubos,330,8
+534,valvulas,330,8
+535,dosimetro,331,8
+536,luximetro,331,8
+537,multimetro,331,8
+538,nivel laser,331,8
+539,osciloscopio,331,8
+540,paquimetro,331,8
+541,prumo,331,8
+542,relogio apalpador,331,8
+543,termometro de globo,331,8
+544,torquimetro,331,8
+545,trena,331,8
+546,alca para banheira,314,8
+547,barra de apoio para banheiro,314,8
+548,cabides e ganchos para banheiro,314,8
+549,kits de banheiro,314,8
+550,porta-papel higienico,314,8
+551,porta-sabonete liquido,314,8
+552,porta-secador de cabelo,314,8
+553,porta-toalha,314,8
+554,prateleira para banheiro,314,8
+555,saboneteira de parede,314,8
+556,tampa de inspecao para banheira,314,8
+557,tampa de ralo,314,8
+558,bolsa de ferramentas,332,8
+559,caixa para ferramentas,332,8
+560,carrinho de ferramentas,332,8
+561,cinto de ferramentas,332,8
+562,gaveteiro para ferramentas,332,8
+563,maleta de ferramentas,332,8
+564,coluna para lavatorio,316,8
+565,cuba e pia,316,8
+567,body spray/desodorante,47,5
+568,perfume feminino,47,5
+569,perfume infantil,47,5
+570,perfume masculino,47,5
+571,perfume unissex,47,5
+572,moveis,1,1
+573,utilidades domesticas,1,1
+625,adega de vinhos,572,572
+626,aparador buffet e cristaleira,572,572
+627,armario de cozinha,572,572
+628,banco e banqueta,572,572
+629,biombo,572,572
+630,box,572,572
+631,cabeceira calcadeira e bau,572,572
+632,cadeira,572,572
+633,cama,572,572
+634,carrinho bar,572,572
+635,cofre para escritorio,572,572
+636,colchao,572,572
+637,comoda,572,572
+638,cozinha,572,572
+639,criado-mudo,572,572
+640,fruteira multiuso,572,572
+641,gaveteiro e arquivo,572,572
+642,guarda-roupa,572,572
+643,livreiro,572,572
+644,mesa e centro de mesa,572,572
+645,moveis para comercio,572,572
+646,moveis para escritorio,572,572
+647,ombrelone gazebo e tenda,572,572
+648,penteadeira,572,572
+649,poltrona,572,572
+650,prateleira cubo e nicho,572,572
+651,puff e tamborete,572,572
+652,rack estante e painel,572,572
+653,sapateira,572,572
+654,sofa,572,572
+655,suporte para pes,572,572
+656,aparelhos de fondue e acessorios,573,573
+657,balanca de cozinha,573,573
+658,balde e pinca de gelo / champanheira,573,573
+659,bandejas assadeiras rechaud e travessas,573,573
+660,cabide cestos e varal de roupas,573,573
+661,caixas e organizadores,573,573
+662,chopeira,573,573
+663,churrasqueira e utensilios,573,573
+664,cooler,573,573
+665,copos tacas e canecas,573,573
+666,escada domestica,573,573
+667,kit caipirinha e coqueteleira,573,573
+668,lixeira,573,573
+669,material de limpeza,573,573
+670,panelas,573,573
+672,pratos e talheres,573,573
+673,sobremesa cafe e cha,573,573
+674,tabua de passar,573,573
+675,utensilios e acessorios domesticos,573,573
+676,baixelas / travessas,659,573
+677,bandejas,659,573
+678,formas e assadeiras,659,573
+679,rechaud e raclete,659,573
+680,cabides e cabideiros,660,573
+681,cesto para roupa,660,573
+682,varal e prendedor de roupas,660,573
+683,acendedor de churrasqueira,663,573
+684,carvao,663,573
+685,churrasqueira a carvao,663,573
+686,churrasqueira a gas,663,573
+687,conjunto para churrasco,663,573
+688,facas churrasco,663,573
+689,grelha e espetos,663,573
+690,canecas,665,573
+691,copos,665,573
+692,tacas,665,573
+693,cozinha modulada,638,572
+694,cozinha compacta,638,572
+701,apoio para o pes,646,572
+702,armario,646,572
+703,arquivo,646,572
+704,balcao para escritotrio,646,572
+705,cadeira,646,572
+706,claviculario,646,572
+707,estacao de trabalho,646,572
+708,gaveteiro,646,572
+709,longarina,646,572
+710,mesa,646,572
+711,bistequeiras,670,573
+712,cacarolas e caldeiroes,670,573
+713,chaleiras e leiteiras,670,573
+714,conjuntos de panelas ,670,573
+715,cozi vapore,670,573
+716,crepeiras,670,573
+717,cuscuzeiras,670,573
+718,espagueteiras,670,573
+719,frigideiras e wok,670,573
+720,paelleras,670,573
+721,panela de pressao,670,573
+722,panelas,670,573
+723,aparelho de jantar,672,573
+724,faqueiros,672,573
+725,pratos avulsos,672,573
+726,talheres avulsos,672,573
+727,utensilios infantis,672,573
+728,acucareiro,673,573
+729,cafe da manha,673,573
+730,cafeteiras,673,573
+731,cha,673,573
+732,conjuntos de sobremesa,673,573
+733,conjuntos de xicara,673,573
+734,garrafas termicas e bules,673,573
+735,pratos e espatulas de bolo,673,573
+736,acessorios de banheiro,675,573
+737,acessorios de lavanderia,675,573
+738,acessorios para vinho,675,573
+739,utensilios de cozinha,675,573
+740,utensilios de mesa,675,573
+741,utensilios para comida japonesa,675,573
+742,decanter,738,573
+743,kits/conjuntos para vinho,738,573
+744,saca-rolha/abridor,738,573
+745,suportes de garrafa,738,573
+746,utensilios para vinho,738,573
+755,abridores espremedores e descascadores,739,573
+756,acessorios de cozinha,739,573
+757,carrinho de feira,739,573
+758,coador de cafe,739,573
+759,conchas escumadeiras pregadores e afins,739,573
+760,conjuntos de facas cepos e chairas,739,573
+761,conjuntos de utensilios,739,573
+762,escorredores,739,573
+763,forma de gelo,739,573
+764,luvas pegadores e aventais,739,573
+765,potes diversos,739,573
+766,raladores fatiadores e cortadores,739,573
+767,secadoras e centrifugas de salada,739,573
+768,tabua de cortar,739,573
+769,tempero/ porta-condimento,739,573
+770,tesoura de cozinha,739,573
+779,acessorios de mesa,740,573
+780,baleiros e bombonieres,740,573
+781,bowls cestos saladeiras e pirex,740,573
+782,fruteira,740,573
+783,galheteiro,740,573
+784,jarras de suco,740,573
+785,jogo americano,740,573
+786,manteigueira,740,573
+787,moringa,740,573
+788,pao pizza e massa,740,573
+789,petisqueira,740,573
+790,porta copo,740,573
+791,porta guardanapo e argolas,740,573
+792,porta lata,740,573
+793,porta molho / molheira,740,573
+794,ramekin,740,573
+795,saleiro pimenteiro e moedor de pimenta,740,573
+796,sopeira,740,573
+797,sousplat,740,573
+798,suportes,740,573
+799,tabua giratoria,740,573
+800,utensilios para queijo,740,573
+801,brinquedos,1,1
+802,esporte e lazer,1,1
+803,moda e acessorios,1,1
+804,autorama e pistas,801,801
+805,bonecas,801,801
+806,bonecos,801,801
+807,brincadeiras,801,801
+808,brinquedos de controle remoto,801,801
+809,brinquedos educativos,801,801
+810,brinquedos eletronicos,801,801
+811,brinquedos esportivos,801,801
+812,fantasias e mascaras,1285,1285
+813,guarda brinquedos,801,801
+814,instrumentos musicais,801,801
+815,jogos,801,801
+816,lancadores e arminhas,801,801
+817,mini veiculos,801,801
+818,modelismo,801,801
+819,outros brinquedos,801,801
+820,pelucias,801,801
+821,playground,801,801
+822,praia e piscina,801,801
+823,veiculos de brinquedos,801,801
+824,iluminacao,8,8
+825,jardinagem,8,8
+826,materiais de construcao,8,8
+827,materiais eletricos,8,8
+828,pisos e revestimentos,8,8
+829,portas janelas e portoes,8,8
+830,seguranca,8,8
+831,tintas e acessorios de pintura,8,8
+832,baralho e carteado,802,802
+833,basquete,802,802
+834,beisebol,802,802
+835,bicicleta,802,802
+836,camping,802,802
+837,ciclismo,802,802
+838,equitacao e hipismo,802,802
+839,escalada e rapel,802,802
+840,esqui aquatico e wakeboard,802,802
+841,fitness musculacao e academia,802,802
+842,futebol,802,802
+844,golfe,802,802
+845,handebol,802,802
+846,jogos de mesa e salao,802,802
+847,kart,802,802
+848,lutas e artes marciais,802,802
+849,mergulho,802,802
+850,monitores e acessorios,802,802
+851,motocross,802,802
+852,natacao / hidroginastica,802,802
+854,patins patinete skate e hoverboard,802,802
+856,pesca,802,802
+857,praia e piscina,802,802
+858,racks e bagageiros,802,802
+859,running,802,802
+861,slackline,802,802
+862,stand up paddle,802,802
+863,surf e body board,802,802
+864,tenis squash e badmiton,802,802
+865,tiro esportivo e air soft,802,802
+866,volei,802,802
+867,acessorios,803,803
+868,bolsas malas e mochilas,803,803
+869,calcados feminino,803,803
+870,calcados infantil,803,803
+871,calcados masculino,803,803
+872,moda praia,803,803
+873,roupas feminino,803,803
+874,roupas infantil,803,803
+875,roupas masculino,803,803
+876,underware feminino,803,803
+877,underware masculino,803,803
+878,bones chapeus e tocas,867,803
+879,carteiras,867,803
+880,cintos e suspensorios,867,803
+881,lencos e cachecol,867,803
+882,oculos de sol,867,803
+883,equipamentos,833,802
+885,acessorios,833,802
+886,vestuario,833,802
+887,acessorios,835,802
+888,blocos de montar,809,801
+889,jogo da memoria,809,801
+890,mesa infantil,809,801
+891,quebra cabeca,809,801
+892,bicicleta infantil,811,801
+893,futebol,811,801
+894,patinete infantil,811,801
+895,patins patinete infantil,811,801
+896,skate patinete infantil,811,801
+897,anabela,869,803
+898,botas,869,803
+899,chinelos e pantufas,869,803
+900,dockside,869,803
+901,esportivo,869,803
+902,mocassim,869,803
+903,rasteiras,869,803
+904,sandalias,869,803
+905,sapatilhas,869,803
+906,scarpin e peep toe,869,803
+907,tenis,869,803
+908,botas,870,803
+909,chinelos e pantufas,870,803
+910,sandalias,870,803
+911,sapatilhas,870,803
+912,tenis,870,803
+913,botas,871,803
+914,chinelos e pantufas,871,803
+915,dockside,871,803
+916,esportivo,871,803
+917,mocassim,871,803
+918,sandalia,871,803
+919,sapatenis,871,803
+920,sapato social,871,803
+921,tenis,871,803
+922,barracas e tendas,836,802
+923,bussola,836,802
+924,caixa termica e cooler,836,802
+925,canivetes e cutelaria,836,802
+926,capacetes,836,802
+927,colchoes inflaveis,836,802
+928,lanternas e lampioes,836,802
+929,mesas e cadeiras de camping,836,802
+930,mochilas,836,802
+931,sacos de dormir,836,802
+933,bastao de caminhada,839,802
+934,capacetes,839,802
+935,cinturoes e cadeirinhas,839,802
+936,cordas e fitas,839,802
+937,mosquetao,839,802
+938,sacos para magnesio,839,802
+947,equipamentos,841,802
+948,acessorios,841,802
+949,vestuario,841,802
+951,agasalhos,802,802
+954,acessorios,842,802
+955,vestuario,842,802
+957,equipamentos,842,802
+958,abajur,824,8
+959,arandela,824,8
+960,coluna e poste,824,8
+961,dimmer,824,8
+962,fita de led,824,8
+963,iluminacao externa,824,8
+964,lampadas,824,8
+965,luminaria,824,8
+966,lustre,824,8
+967,luz de emergencia,824,8
+968,luz noturna,824,8
+969,painel de led,824,8
+970,pendente,824,8
+971,plafon,824,8
+972,reator,824,8
+973,soquete,824,8
+974,spot,824,8
+975,aparador de cerca viva,825,8
+976,aparador de grama,825,8
+977,composteira,825,8
+978,cortador de grama,825,8
+979,estufa domestica,825,8
+980,ferramentas para jardinagem,825,8
+981,fertilizantes,825,8
+982,grama,825,8
+983,iluminacao para jardim,825,8
+984,irrigacao,825,8
+985,lavadoras de alta pressao,825,8
+986,motosserra e sopradores,825,8
+987,moveis para jardim,825,8
+988,ombrelones tendas e gazebos,825,8
+989,plantas flores e sementes,825,8
+990,podador,825,8
+991,pulverizador e atomizador,825,8
+992,rede de descanso,825,8
+993,repelentes,825,8
+994,rocadeira,825,8
+995,triturador e picadores,825,8
+996,vasos e cachepots,825,8
+998,cartas,801,801
+999,dama,801,801
+1000,domino,801,801
+1001,xadrez,801,801
+1002,aero hockey,846,802
+1003,baralho e carteado,846,802
+1004,futebol de botao,846,802
+1005,pebolim,846,802
+1006,poker,846,802
+1007,sinuca,846,802
+1008,tenis de mesa,846,802
+1012,equipamentos,848,802
+1013,acessorios,848,802
+1014,vestuario,848,802
+1015,aco,826,8
+1016,adesivos fitas e colas,826,8
+1017,aluminio,826,8
+1018,arame,826,8
+1019,areia,826,8
+1020,argamassa,826,8
+1021,argila expandida,826,8
+1022,asfalto pronto,826,8
+1023,balaustra,826,8
+1024,blocos e tijolos,826,8
+1025,cabo para construcao,826,8
+1026,cal,826,8
+1027,calhas,826,8
+1028,canaleta,826,8
+1029,cimento,826,8
+1030,cobre,826,8
+1031,ferros e acos,826,8
+1032,forro,826,8
+1033,gesso,826,8
+1034,impermeabilizantes,826,8
+1035,isolantes,826,8
+1036,latao,826,8
+1037,lonas,826,8
+1038,molduras de parede e teto,826,8
+1039,pedra para construcao,826,8
+1040,rejunte,826,8
+1041,saco para entulho,826,8
+1042,tapumes,826,8
+1043,telhas,826,8
+1044,toldos,826,8
+1045,barramento,827,8
+1046,caixas e quadros eletricos,827,8
+1047,condicionador de energia,827,8
+1048,conduites e eletrodutos,827,8
+1049,conectores eletricos,827,8
+1050,disjuntor e fusivel,827,8
+1051,extensao,827,8
+1052,filtro de linha,827,8
+1053,fios e cabos,827,8
+1054,fita eletrica,827,8
+1055,fonte de alimentacao,827,8
+1056,gerador de energia solar,827,8
+1057,interruptores e tomadas,827,8
+1058,passa fios,827,8
+1059,plugs e adaptadores,827,8
+1060,rele e soquete,827,8
+1061,resistencia eletrica,827,8
+1062,terminais eletricos,827,8
+1063,transformador de energia,827,8
+1064,equipamentos,849,802
+1065,acessorios,849,802
+1066,vestuario,849,802
+1067,eletrico,817,801
+1068,pedal,817,801
+1069,canga e saida de praia,872,803
+1070,maios e biquines,872,803
+1071,sungas,872,803
+1072,cronometro esportivo,850,802
+1073,gps esportivo,850,802
+1074,monitor cardiaco,850,802
+1075,outros,850,802
+1076,acessorios,851,802
+1078,vestuario,851,802
+1079,acessorios,852,802
+1080,vestuario,852,802
+1090,equipamentos,856,802
+1091,vestuario,856,802
+1092,acessorios,856,802
+1093,acabamentos para pisos e revestimentos,828,8
+1094,carpete ,828,8
+1095,espacador,828,8
+1096,faixas e filetes,828,8
+1097,ladrilhos,828,8
+1098,lajota,828,8
+1099,mosaicos,828,8
+1100,pastilhas,828,8
+1101,pedras naturais,828,8
+1102,pisos e azuleijos,828,8
+1103,porcelanato,828,8
+1104,revestimentos,828,8
+1105,rodape,828,8
+1106,acessorios para piscina,1251,8
+1107,aquecedor de piscina,1251,8
+1108,barcos inflaveis,857,802
+1109,boias inflaveis,857,802
+1110,bombas refis e filtros,1251,8
+1111,cadeira,857,802
+1112,capas e forros para piscina,1251,8
+1113,cascata para piscina,1251,8
+1114,escada para piscina,1251,8
+1115,escorregador para piscina,1251,8
+1116,frescobol,857,802
+1117,guarda-sol tendas e gazebo,857,802
+1118,iluminacao para piscina,1251,8
+1120,painel de comando para piscina,1251,8
+1121,piscinas,857,802
+1122,trampolim para piscina,1251,8
+1123,tratamento e limpeza de piscina,1251,8
+1124,blusinhas e body,873,803
+1125,calcas e legging,873,803
+1126,camisas,873,803
+1127,camisetas e regata,873,803
+1128,cardigan e sueter,873,803
+1129,casaco jaqueta e blazer,873,803
+1130,coletes,873,803
+1131,gestante e maternidade,873,803
+1132,macacao e macaquinhos,873,803
+1133,saias,873,803
+1134,shorts e bermudas ,873,803
+1135,vestidos,873,803
+1136,bermudas e shorts,874,803
+1137,blusas e moleton,874,803
+1138,body,874,803
+1139,calcas e legging,874,803
+1140,camisas,874,803
+1141,camisetas e regata,874,803
+1142,casaco e sueter ,874,803
+1143,coletes e jaquetas,874,803
+1144,conjunto infantil,874,803
+1145,macacao macaquinhos e jardineiras,874,803
+1146,polo,874,803
+1147,saias,874,803
+1148,vestidos,874,803
+1149,bermudas e shorts,875,803
+1150,cardigan e sueter,875,803
+1151,calcas,875,803
+1152,camisas,875,803
+1153,camisetas e regata,875,803
+1154,casaco jaqueta e blazer,875,803
+1155,coletes,875,803
+1156,polo,875,803
+1157,ternos,875,803
+1159,acessorios,830,8
+1160,alarme,830,8
+1161,automatizador de portao,830,8
+1162,caixa de protecao para camera de segurancas,830,8
+1163,camera de seguranca,830,8
+1164,campainha,830,8
+1165,caneta espia,830,8
+1166,central de alarme,830,8
+1167,central de automacao,830,8
+1168,cerca eletrica,830,8
+1169,cofre,830,8
+1170,detector de fumaca e gas,830,8
+1171,dvr gravador de video,830,8
+1172,fechadura eletronica,830,8
+1173,interfone,830,8
+1174,luz de emergencia,830,8
+1175,monitor de seguranca,830,8
+1176,portao eletronico,830,8
+1177,porteiro eletronico,830,8
+1178,sensor de presenca,830,8
+1179,telas de protecao,830,8
+1180,video porteiro,830,8
+1186,equipamentos,864,802
+1187,acessorios,864,802
+1188,vestuario,864,802
+1189,abrasivos,831,8
+1190,corante,831,8
+1191,massa acrilica,831,8
+1192,massa corrida e niveladora,831,8
+1193,pinceis rolos e acessorios de pintura,831,8
+1194,pistola para pintura,831,8
+1195,raspador de tinta,831,8
+1196,resina acrilica,831,8
+1197,seladores e fundos,831,8
+1198,solventes e removedores,831,8
+1199,texturas e efeitos,831,8
+1200,tinta spray,831,8
+1201,tintas,831,8
+1202,verniz,831,8
+1203,calcinha,876,803
+1204,camisola e  babydoll,876,803
+1205,corselet e espartilho,876,803
+1206,meias,876,803
+1207,pijamas,876,803
+1208,roupao e robe,876,803
+1209,sutia,876,803
+1210,cuecas,877,803
+1211,meias,877,803
+1212,pijamas,877,803
+1213,roupao e robe,877,803
+1214,acessorios,866,802
+1215,vestuario,866,802
+1241,acessorios,837,802
+1242,vestuario,837,802
+1243,equipamentos,837,802
+1251,piscina,8,8
+1252,vestuario,834,802
+1253,acessorios,834,802
+1254,equipamentos,834,802
+1255,equipamentos,835,802
+1256,vestuario,838,802
+1257,acessorios,838,802
+1258,equipamentos,838,802
+1259,vestuario,840,802
+1260,acessorios,840,802
+1261,equipamentos,840,802
+1262,vestuario,844,802
+1263,acessorios,844,802
+1264,equipamentos,844,802
+1265,vestuario,845,802
+1266,acessorios,845,802
+1267,equipamentos,845,802
+1268,vestuario,847,802
+1269,acessorios,847,802
+1270,equipamentos,847,802
+1271,acessorios,854,802
+1272,equipamentos,854,802
+1273,acessorios,859,802
+1274,vestuario,859,802
+1275,vestuario,863,802
+1276,acessorios,863,802
+1277,equipamentos,863,802
+1278,vestuario,865,802
+1279,acessorios,865,802
+1280,equipamentos,865,802
+1281,equipamentos,866,802
+1282,moleton,873,803
+1283,moleton,875,803
+1284,polo,873,803
+1285,artigos de festas,1,1
+1286,decoracao,1,1
+1287,financeiras,1,1
+1288,loterias,1,1
+1289,papelaria,1,1
+1290,pet shop,1,1
+1291,recargas,1,1
+1292,revendas,1,1
+1293,sex shop,1,1
+1294,telcos,1,1
+1295,tickets,1,1
+1296,passagem/hospedagem,1,1
+1297,alimentos e bebidas,1,1
+2136,agro industria e comercio,1,1
+2137,sinalizacao e seguranca,2139,2139
+2138,suplementos e vitaminas,1,1
+2139,eletronicos,1,1
+2140,agro industria e comercio,2136,2136
+2158,bebidas alcoolicas ,2580,1297
+2159,bebidas nao alcoolicas ,2580,1297
+2160,biscoitos salgados e snacks ,1297,1297
+2161,bomboniere ,1297,1297
+2162,cafes chas e achocolatados ,1297,1297
+2163,carnes aves e pescado,1297,1297
+2164,condimentos ervas e especiarias ,1297,1297
+2165,congelados,1297,1297
+2166,doces e sobremesas ,1297,1297
+2167,enlatados e conservas ,1297,1297
+2168,farinaceos ,1297,1297
+2169,frios e laticinios ,1297,1297
+2170,graos e sementes ,1297,1297
+2171,hortifruti,1297,1297
+2172,massas ,1297,1297
+2173,padaria ,1297,1297
+2174,sopas e cremes ,1297,1297
+2175,aderecos para festas�,1285,1285
+2176,baloes de festa,1285,1285
+2177,convites para festas,1285,1285
+2178,decoracao de festa,1285,1285
+2179,descartaveis para festa�,1285,1285
+2180,lembrancinhas de festas,1285,1285
+2181,velas de aniversario,1285,1285
+2182,marcenaria e madeira,8,8
+2183,sauna,8,8
+2184,acessorios para sofa,1286,1286
+2185,adesivo decorativo e papel de parede,1286,1286
+2186,almofadas futons e capas,1286,1286
+2187,caixa decorativa,1286,1286
+2188,enfeites de natal,1286,1286
+2189,espelho,1286,1286
+2190,floreiras e plantas artificiais,1286,1286
+2191,floricultura,1286,1286
+2192,objetos decorativos,1286,1286
+2193,persianas cortinas e acessorios,1286,1286
+2194,placa e quadro decorativo,1286,1286
+2195,porta objetos,1286,1286
+2196,porta retrato e painel de foto,1286,1286
+2197,revisteiro,1286,1286
+2198,tapetes,1286,1286
+2199,velas e acessorios,1286,1286
+2200,financeiras,1287,1287
+2201,audio e equipamentos de dj,2551,2551
+2202,cordas e acessorios,2551,2551
+2203,percussao e acessorios,2551,2551
+2204,sopro e acessorios,2551,2551
+2205,teclas e acessorios,2551,2551
+2206,loterias,1288,1288
+2207,underware infantil,803,803
+2208,agendas e calendarios,1289,1289
+2209,albuns de fotografia,1289,1289
+2210,artes e pinturas,1289,1289
+2211,artesanato,1289,1289
+2212,artigos para presentes,1289,1289
+2213,avental escolar,1289,1289
+2214,cartoes comemorativos,1289,1289
+2215,escolar e escritorio,1289,1289
+2216,papeis pastas e arquivos,1289,1289
+2217,caes,1290,1290
+2218,gatos,1290,1290
+2219,passaros,1290,1290
+2220,peixes,1290,1290
+2221,repteis,1290,1290
+2222,roedores,1290,1290
+2223,recargas,1291,1291
+2224,revendas,1292,1292
+2225,massagem,18,18
+2226,terapia ,18,18
+2227,sex shop,1293,1293
+2228,biruta de sinalizacao,2137,2139
+2229,bloqueio e travamento,2137,2139
+2230,cartoes de identificacao,2137,2139
+2231,chaveiros identificadores,2137,2139
+2232,delimitacao de trafego,2137,2139
+2233,embalagem,2137,2139
+2234,ergonomia e prevencao de acidentes,2137,2139
+2235,ergonomia e protecao,2137,2139
+2236,espelhos,2137,2139
+2237,etiquetas de embalagem,2137,2139
+2238,etiquetas e marcadores,2137,2139
+2239,fita para empacotamento,2137,2139
+2240,garagem e estacionamento,2137,2139
+2241,gestao de armazem,2137,2139
+2242,higiene e coleta,2137,2139
+2243,identificacao patrimonial,2137,2139
+2244,identificacao pessoal,2137,2139
+2245,iluminacao,2137,2139
+2246,inspecao e controle,2137,2139
+2247,isolamento de area,2137,2139
+2248,lacres e abracadeiras,2137,2139
+2249,manutencao e seguranca eletrica,2137,2139
+2250,placas e paineis,2137,2139
+2251,plastico bolha,2137,2139
+2252,protetores e suportes,2137,2139
+2253,seguranca de produtos perigosos,2137,2139
+2254,sinalizacao de emergencia e incendio,2137,2139
+2255,sinalizacao industrial,2137,2139
+2256,sinalizacao tatil,2137,2139
+2257,transporte de cargas perigosas,2137,2139
+2258,artigos esportivos,2138,2138
+2259,emagrecimento,2138,2138
+2260,energia,2138,2138
+2261,fitoterapicos / funcionais,2138,2138
+2262,massa muscular,2138,2138
+2263,pele,2138,2138
+2264,suplemento infantil,2138,2138
+2265,vitaminas & minerais,2138,2138
+2266,telcos,1294,1294
+2267,tickets,1295,1295
+2268,limpeza,573,573
+2269,passagem/hospedagem,1296,1296
+2270,wearable,2139,2139
+2271,aquarela,2210,1289
+2272,guache,2210,1289
+2273,kit de pintura,2210,1289
+2274,lantejoulas e glitter,2210,1289
+2275,pincel,2210,1289
+2276,purpurina,2210,1289
+2277,telas,2210,1289
+2278,tintas,2210,1289
+2279,tnt ,2210,1289
+2280,caixas e embalagens,2212,1289
+2281,chaveiros,2212,1289
+2282,isqueiros,2212,1289
+2283,aperol,2158,1297
+2284,cervejas,2158,1297
+2285,champagnes e espumantes,2158,1297
+2286,conhaque,2158,1297
+2287,gin,2158,1297
+2288,grappa,2158,1297
+2289,kits de bebidas e outras bebidas,2158,1297
+2290,licor,2158,1297
+2291,pingas e cachacas,2158,1297
+2292,piscos,2158,1297
+2293,rum,2158,1297
+2294,saque,2158,1297
+2295,steinhager,2158,1297
+2296,tequila,2158,1297
+2297,vermutes,2158,1297
+2298,vinhos,2158,1297
+2299,vodkas,2158,1297
+2300,whisky,2158,1297
+2301,agua coco,2159,1297
+2302,aguas,2159,1297
+2303,energeticos,2159,1297
+2304,isotonicos,2159,1297
+2305,refrigerantes,2159,1297
+2306,sucos e nectars,2159,1297
+2307,xaropes,2159,1297
+2308,biscoitos,2160,1297
+2309,salgadinhos,2160,1297
+2310,snacks,2160,1297
+2311,balas chicletes e pirulito,2161,1297
+2312,bombons,2161,1297
+2313,chocolates,2161,1297
+2314,ovos de pascoa,2161,1297
+2315,adestramento e comportamento,2217,1290
+2316,alimentacao e acessorios,2217,1290
+2317,brinquedos,2217,1290
+2318,casinha e acessorios,2217,1290
+2319,coleiras guias e peitorais,2217,1290
+2320,higiene e limpeza,2217,1290
+2321,medicina e saude,2217,1290
+2322,moda e acessorios,2217,1290
+2323,transporte,2217,1290
+2324,achocolatados,2162,1297
+2325,cafes,2162,1297
+2326,chas,2162,1297
+2327,aves,2163,1297
+2328,carnes bovinas,2163,1297
+2329,carnes exoticas,2163,1297
+2330,carnes suinas,2163,1297
+2331,frutos do mar,2163,1297
+2332,linguica,2163,1297
+2333,peixes,2163,1297
+2334,azeites,2164,1297
+2335,ervas,2164,1297
+2336,especiarias e temperos,2164,1297
+2337,maionese,2164,1297
+2338,molhos,2164,1297
+2339,oleos,2164,1297
+2340,sal,2164,1297
+2341,temperos prontos,2164,1297
+2342,vinagres e balsamicos,2164,1297
+2343,frutas congeladas,2165,1297
+2344,hamburguer,2165,1297
+2345,legumes congelados,2165,1297
+2346,paes,2165,1297
+2347,petiscos e empanados,2165,1297
+2348,pratos prontos,2165,1297
+2349,sucos e sobremesas,2165,1297
+2350,acucares,2166,1297
+2351,adocantes,2166,1297
+2352,coberturas,2166,1297
+2353,doces,2166,1297
+2354,geleias,2166,1297
+2355,ingredientes para preparo,2166,1297
+2356,misturas em po,2166,1297
+2357,pastas e cremes,2166,1297
+2358,azeitonas,2167,1297
+2359,cogumelos,2167,1297
+2360,ervilha,2167,1297
+2361,frutas,2167,1297
+2362,milho,2167,1297
+2363,outros vegetais,2167,1297
+2364,palmito,2167,1297
+2365,pates e antepastos,2167,1297
+2366,peixes e carnes,2167,1297
+2367,pratos prontos,2167,1297
+2368,seleta,2167,1297
+2369,apontador,2215,1289
+2370,apontadores,2215,1289
+2371,borrachas,2215,1289
+2372,botton,2215,1289
+2373,cadernos,2215,1289
+2374,calculadora,2215,1289
+2375,caneta,2215,1289
+2376,carga de caneta,2215,1289
+2377,carimbos,2215,1289
+2378,colas,2215,1289
+2379,compassos,2215,1289
+2380,cordao de cracha,2215,1289
+2381,corretivos,2215,1289
+2382,envelope,2215,1289
+2383,espatulas e estecas,2215,1289
+2384,estiletes,2215,1289
+2385,estojos e necessaires,2215,1289
+2386,etiquetas,2215,1289
+2387,ficharios e acessorios,2215,1289
+2388,fita adesiva e suporte,2215,1289
+2389,fragmentadora de papel,2215,1289
+2390,giz pastel e cera,2215,1289
+2391,globos e mapas,2215,1289
+2392,grampeadores perfuradores e acessorios,2215,1289
+2393,guilhotina,2215,1289
+2394,imas e produtos magneticos,2215,1289
+2395,kit escolar / criativos,2215,1289
+2396,lancheiras e garrafas,2215,1289
+2397,lapis,2215,1289
+2398,lapis de cor ,2215,1289
+2399,lapis carvao e grafite,2215,1289
+2400,lapiseira,2215,1289
+2401,massa de modelar,2215,1289
+2402,percevejo,2215,1289
+2403,pesos de papel,2215,1289
+2404,plasticos para encapar,2215,1289
+2405,plastificadora e suprimentos,2215,1289
+2406,porta-cartoes,2215,1289
+2407,pranchetas,2215,1289
+2408,quadros corticas e apagadores,2215,1289
+2409,regua esquadro e transferidor,2215,1289
+2410,rotuladores / impressoras de etiqueta,2215,1289
+2411,tesoura escolar,2215,1289
+2412,farinhas,2168,1297
+2413,farofas,2168,1297
+2414,frios e embutidos,2169,1297
+2415,iogurtes e leites fermentados,2169,1297
+2416,leites ,2169,1297
+2417,manteigas e margarinas,2169,1297
+2418,queijos,2169,1297
+2419,adestramento e comportamento,2218,1290
+2420,alimentacao e acessorios,2218,1290
+2421,brinquedos,2218,1290
+2422,casinha e acessorios,2218,1290
+2423,coleiras guias e peitorais,2218,1290
+2424,higiene e limpeza,2218,1290
+2425,medicina e saude,2218,1290
+2426,moda e acessorios,2218,1290
+2427,transporte,2218,1290
+2428,graos,2170,1297
+2429,sementes,2170,1297
+2430,frutas,2171,1297
+2431,legumes,2171,1297
+2432,ovos,2171,1297
+2433,temperos frescos,2171,1297
+2434,verduras,2171,1297
+2439,casa em geral,2268,573
+2440,desodorizador e aromatizantes ,2268,573
+2441,roupas e calcados,2268,573
+2442,utensilios para limpeza ,2268,573
+2443,balaustre de madeira,2182,8
+2444,caibro de madeira,2182,8
+2445,chapas de madeira,2182,8
+2446,deck de madeira e compomentes,2182,8
+2447,escada de madeira,2182,8
+2448,lapis de carpinteiro,2182,8
+2449,massa para correcao de madeira,2182,8
+2450,painel de madeira,2182,8
+2451,pisos e laminados de madeira,2182,8
+2452,prancha de madeira,2182,8
+2453,ripas de madeira,2182,8
+2454,tabua de madeira,2182,8
+2455,viga de madeira,2182,8
+2456,macarrao instantaneo,2172,1297
+2457,massas frescas,2172,1297
+2458,massas secas,2172,1297
+2459,animais decorativos,2192,1286
+2460,aparador de livros,2192,1286
+2461,artigos religiosos,2192,1286
+2462,azulejos decorativos,2192,1286
+2463,cinzeiro,2192,1286
+2464,cofre decorativo,2192,1286
+2465,escultura e estatua,2192,1286
+2466,garrafa decorativa,2192,1286
+2467,globo terrestre,2192,1286
+2468,ima de geladeira,2192,1286
+2469,letra decorativa,2192,1286
+2470,mala e bau,2192,1286
+2471,miniaturas,2192,1286
+2472,outros,2192,1286
+2473,placa decorativa,2192,1286
+2474,puxador decorativo,2192,1286
+2482,bolos,2173,1297
+2483,cereais,2173,1297
+2484,cesta de natal,2173,1297
+2485,doces,2173,1297
+2486,panetones e chocotones,2173,1297
+2487,pao,2173,1297
+2488,torradas,2173,1297
+2489,arquivos e pastas,2216,1289
+2490,bobina de papel,2216,1289
+2491,clips tachinhas e elasticos,2216,1289
+2492,organizadores,2216,1289
+2493,papeis,2216,1289
+2494,alimentacao e acessorios,2219,1290
+2495,gaiolas e acessorios,2219,1290
+2496,medicina e saude,2219,1290
+2497,alimentacao e acessorios,2220,1290
+2498,aquario e acessorios,2220,1290
+2499,manutencao e limpeza,2220,1290
+2500,medicina e saude,2220,1290
+2501,acessorios,2193,1286
+2502,cortinas,2193,1286
+2503,persianas,2193,1286
+2504,porta cd,2195,1286
+2505,porta controle,2195,1286
+2506,porta guarda-chuva,2195,1286
+2507,porta treco,2195,1286
+2508,porta-chave,2195,1286
+2509,porta-joia e relogio,2195,1286
+2510,alimentacao e acessorios,2221,1290
+2511,habit e acessorios,2221,1290
+2512,medicina e saude,2221,1290
+2513,alimentacao e acessorios,2222,1290
+2514,brinquedos,2222,1290
+2515,gaiolas e acessorios,2222,1290
+2516,higiene e limpeza,2222,1290
+2517,medicina e saude,2222,1290
+2518,moda e acessorios,2222,1290
+2519,pures,2174,1297
+2520,sopas,2174,1297
+2521,calcinha,2207,803
+2522,cuecas,2207,803
+2523,meias,2207,803
+2524,pijamas,2207,803
+2525,castical e candelabro,2199,1286
+2526,lanterna,2199,1286
+2527,porta-vela,2199,1286
+2528,vela,2199,1286
+2529,cha pronto ,2326,1297
+2530,cha sache e po,2326,1297
+2531,farinha ou amido de milho,2412,1297
+2532,fuba,2412,1297
+2533,mandioca,2412,1297
+2534,outros,2412,1297
+2535,polvilho e fecula de mandioca,2412,1297
+2536,rosca,2412,1297
+2537,trigo,2412,1297
+2540,frescas,2430,1297
+2541,secas,2430,1297
+2542,arroz,2428,1297
+2543,feijao,2428,1297
+2544,outros,2428,1297
+2545,preparos para sobremesa,2356,1297
+2546,ketchup e barbecue,2338,1297
+2547,molho polpa e extrato de tomate,2338,1297
+2548,molhos diversos,2338,1297
+2549,mostarda,2338,1297
+2550,livros,16,16
+2551,instrumentos musicais,1,1
+2552,conjunto de moveis,572,572
+2553,artigos para animals em geral,1290,1290
+2555,sabonetes,133,18
+2556,alimentos infantis,1297,1297
+2557,cortina de ar,2,2
+2558,acessorios ar e ventilacao,2,2
+2559,limpeza automotiva,3,3
+2560,ballet jazz e dancas,802,802
+2561,vestuario,2560,802
+2562,acessorios,2560,802
+2563,agencia de turismo,1,1
+2564,agencia de turismo,2563,2563
+2565,app,1,1
+2566,app,2565,2565
+2567,cupom,1,1
+2568,cupom,2567,2567
+2569,d2d,1,1
+2570,d2d,2569,2569
+2571,gift card,1,1
+2574,tatuagem,5,5
+2575,artigos de tiro e pesca,1,1
+2576,artigos de tiro e pesca,2575,2575
+2577,seguros garantias e assinaturas,1,1
+2578,seguros garantias e assinaturas,2577,2577
+2579,lubrificantes e aditivos,3,3
+2580,bebidas,1297,1297
+2581,split + cassete,21,2
+2582,janela,21,2
+2583,maquina de lavar,77,10
+2584,tanquinho,77,10
+2585,lava e seca,77,10
+2586,embutir,72,10
+2587,eletrico,72,10
+2588,freezer horizontal,73,10
+2589,freezer vertical tradicional,73,10
+2590,freezer vertical expositor,73,10
+2591,coifa,10,10
+2592,depurador,10,10
+2593,cervejeira,10,10
+2594,outros,21,2
+2595,acai,2165,1297
+2596,chantilly,2357,1297
+2597,creme de leite,2357,1297
+2598,leite condensado,2357,1297
+2599,sorvetes,2349,1297
+2600,sabonete infantil,37,4
+2601,hidratante corporal,217,5
+2602,clareador dental,132,18
+2603,escova dental eletrica,132,18
+2604,ortodontico,132,18
+2605,barra,2555,18
+2606,liquido,2555,18
+2607,absorventes,385,18
+2608,papel higiencio,385,18
+2609,desodorante intimo,385,18
+2610,sabonete intimo,385,18
+2611,lenco intimo umedecido,385,18
+2612,acessorios,385,18
+2613,balanca,134,18
+2614,acessorios,388,18
+2615,alcool,2439,573
+2616,alvejante (com e sem cloro) e agua sanitaria,2441,573
+2617,amaciante,2441,573
+2618,antimofo,2439,573
+2619,ceras e polidores,2439,573
+2620,desengordurante,2439,573
+2621,desinfetante,2439,573
+2622,desentupidor,2439,573
+2623,sabao em po para roupas,2441,573
+2624,sabao liquido para roupas,2441,573
+2625,detergente louca,2439,573
+2626,inseticida,2439,573
+2627,limpa pedra,2439,573
+2628,limpa vidros,2439,573
+2629,limpador multiuso,2439,573
+2630,limpadores em geral,2439,573
+2631,lustra movel,2439,573
+2632,produtos para maquina de lavar louca,2439,573
+2633,removedor,2439,573
+2634,sabao em barra,2441,573
+2635,saponaceo,2439,573
+2636,tira limo / banheiro,2439,573
+2637,agua de passar,2441,573
+2638,produtos para limpar calcados e tenis,2441,573
